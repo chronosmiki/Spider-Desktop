@@ -16,5 +16,10 @@ namespace Main
         {
             InitializeComponent();
         }
+
+        private void Guinchos_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
